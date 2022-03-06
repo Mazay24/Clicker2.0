@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Кликер от Исаева</string>
+    <string name="txt_students" translatable="false">Сколько людей зашло в колледж</string>
+    <string name="btn_students" translatable="false">Добавить человека</string>
+</resources>
